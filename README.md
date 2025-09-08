@@ -14,7 +14,7 @@ Meu primeiro repositório no GitHub
 </html>
 <header>
 
-<h1>Portfólio de Maria Silva</h1>
+<h1>Portfólio de Leticia</h1>
 <p>Estudante de desenvolvimento web — HTML, CSS e JavaScript.</p>
 <nav aria-label="Navegação principal">
 <ul>
@@ -34,7 +34,7 @@ de frente.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
-Olá! Sou a Maria e estou começando no desenvolvimento web.
+Olá! Sou a Leticia e estou começando no desenvolvimento web.
 Gosto de aprender criando projetos simples e práticos.
 </p>
 </section>
@@ -88,5 +88,5 @@ required></textarea>
 
 </main>
 <footer>
-<small>&copy; 2025 Maria Silva. Todos os direitos reservados.</small>
+<small>&copy; 2025 Leticia Camilo. Todos os direitos reservados.</small>
 </footer>
